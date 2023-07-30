@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gc/Af5tJc6uPEYqxqG1EIgO/jVgqhrBpqwinI0L88im6wygdPnEtmcdzgdO0YoCdSVQgs2jYNkuDgL0jy5HwfQ==",
+  "success": true,
+  "projectFilePath": "/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/Entities.csproj",
+  "expectedPackageFiles": [
+    "/Users/laxmikanthponna/.nuget/packages/excelfinancialfunctions/3.2.0/excelfinancialfunctions.3.2.0.nupkg.sha512",
+    "/Users/laxmikanthponna/.nuget/packages/fsharp.core/6.0.4/fsharp.core.6.0.4.nupkg.sha512",
+    "/Users/laxmikanthponna/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/laxmikanthponna/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

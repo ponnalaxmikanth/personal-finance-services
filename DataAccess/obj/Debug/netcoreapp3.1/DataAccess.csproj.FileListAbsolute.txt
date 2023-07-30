@@ -1,0 +1,13 @@
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.deps.json
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.AssemblyReference.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfoInputs.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.AssemblyInfo.cs
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.csproj.CopyComplete
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/DataAccess/obj/Debug/netcoreapp3.1/DataAccess.pdb

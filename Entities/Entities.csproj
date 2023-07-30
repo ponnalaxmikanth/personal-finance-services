@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MySql.EntityFrameworkCore" />
+    <None Remove="Models\" />
+    <None Remove="Models\DTO\" />
+    <None Remove="Models\DTO\Funds\" />
+    <None Remove="Models\DTO\BSE\" />
+    <None Remove="Models\DTO\India\" />
+    <None Remove="ExcelFinancialFunctions" />
+    <None Remove="Models\DTO\Stocks\" />
+    <None Remove="Models\DTO\Home\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ExcelFinancialFunctions" Version="3.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Models\DTO\" />
+    <Folder Include="Models\DTO\Funds\" />
+    <Folder Include="Models\DTO\BSE\" />
+    <Folder Include="Models\DTO\India\" />
+    <Folder Include="Models\DTO\Stocks\" />
+    <Folder Include="Models\DTO\Home\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/bin/Debug/netcoreapp3.1/Entities.deps.json
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.AssemblyReference.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfoInputs.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.AssemblyInfo.cs
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.csproj.CoreCompileInputs.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/Entities/obj/Debug/netcoreapp3.1/Entities.pdb

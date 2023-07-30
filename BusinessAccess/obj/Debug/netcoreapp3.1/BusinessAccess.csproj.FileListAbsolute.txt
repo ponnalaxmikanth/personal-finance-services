@@ -1,0 +1,15 @@
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/BusinessAccess.deps.json
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/BusinessAccess.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/BusinessAccess.pdb
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/DataAccess.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/Entities.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/DataAccess.pdb
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/bin/Debug/netcoreapp3.1/Entities.pdb
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.csproj.AssemblyReference.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.AssemblyInfoInputs.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.AssemblyInfo.cs
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.csproj.CoreCompileInputs.cache
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.csproj.CopyComplete
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.dll
+/Users/laxmikanthponna/Projects/dotnet/Personal.Finance/BusinessAccess/obj/Debug/netcoreapp3.1/BusinessAccess.pdb
